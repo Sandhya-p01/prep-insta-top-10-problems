@@ -1,0 +1,4 @@
+def sum_formula(n):
+    return (n * (n + 1)) // 2
+n = 10
+print(f"Sum of first {n} numbers is: {sum_formula(n)}") 
