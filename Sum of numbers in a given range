@@ -1,0 +1,4 @@
+start = 5
+end = 20
+result = sum(range(start, end + 1))
+print(f"The sum is: {result}")
